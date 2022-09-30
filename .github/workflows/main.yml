@@ -20,7 +20,7 @@ jobs:
           - A3DGame
           #projectPath:
           #  - test-project
-          unityVersion:
+        unityVersion:
           - 2022.1.17f1
         targetPlatform:
           #- StandaloneOSX # Build a macOS standalone (Intel 64-bit).
